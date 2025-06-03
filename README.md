@@ -26,7 +26,7 @@ Creación de variables.
 
 El resultado de esta limpieza será utilizado en el siguiente paso.
 
-ACÁ ESTÁ EL DATASET FINAL https://drive.google.com/file/d/1l48s6PF40nay0seLMyFLStLkHeahZGnf/view?usp=drive_link
+Dataset final -> https://drive.google.com/file/d/1l48s6PF40nay0seLMyFLStLkHeahZGnf/view?usp=drive_link
 
 📂 Ir a dataremates/
 
