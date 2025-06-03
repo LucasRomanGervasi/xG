@@ -1,8 +1,8 @@
-*OBJETIVO*
+***OBJETIVO***
 
 El objetivo de este trabajo es desarrollar un modelo de clasificación, utilizando regresión logística para predecir la probabilidad de gol a partir de remates registrados en partidos de fútbol. Utilizando un conjunto de datos de eventos de remates, se analiza información relevante como la distancia al arco, el ángulo del remate, el tipo de remate y la posición del arquero. Logramos limpiar y explorar el dataset que brinda statsbomb, identificando variables claves que servirán de base para el desarrollo del modelo predictivo en las siguientes etapas.
 
-📝 Pasos para reproducir el proyecto
+📝 **Pasos para reproducir el proyecto**
 
 📁 Ir a datastatsbomb/
 
@@ -13,7 +13,7 @@ En este caso, ya contamos con los archivos necesarios descargados.
 
 Por lo tanto, dirigirse directamente a la sección (CAJA nro 6) donde se carga el archivo eventosremates.csv y comenzar con el proceso de limpieza.
 
-🧹 Limpiar el dataset
+🧹 **Limpiar el dataset**
 En el archivo correspondiente dentro de datastatsbomb/, realizar:
 
 Filtrado de eventos específicos relacionados a remates.
