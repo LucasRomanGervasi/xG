@@ -33,7 +33,7 @@ En esta carpeta ya se trabaja con el dataset limpio.
 
 Nos divertimos un poco con los gráficos para entender mejor los datos, explorando cómo se distribuyen los remates y qué variables podrían influir en el resultado del disparo.
 
-🤖 Ir a modeloremates/
+📁 Ir a modeloremates/
 En esta carpeta se encuentra el modelo de regresión logística.
 
 Se entrena el modelo utilizando el dataset generado.
