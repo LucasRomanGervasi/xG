@@ -5,7 +5,8 @@ El objetivo de este trabajo es desarrollar un modelo de clasificación, utilizan
 📝 Pasos para reproducir el proyecto
 
 📁 Ir a datastatsbomb/
-  #En esta carpeta normalmente se realiza la descarga de los datos desde la API de StatsBomb.
+
+En esta carpeta normalmente se realiza la descarga de los datos desde la API de StatsBomb.
 
 En este caso, ya contamos con los archivos necesarios descargados. 
 (https://drive.google.com/file/d/1OULWoGzLQpyvjNkvGCM7G1hAgJg3I3SV/view?usp=drive_link)
