@@ -18,8 +18,7 @@ En el archivo correspondiente dentro de datastatsbomb/, realizar:
 
 Filtrado de eventos específicos relacionados a remates.
 
-Se unió el dataset de información de jugadores, por lo tanto se necesita este dataset para continuar https://drive.google.com/file/d/1KaEDWdK1_jBYKSeGwM0KplWUkpx-jMd8/view?usp=sharing
-
+Se unió el dataset de información de jugadores, por lo tanto se necesita este dataset para continuar https://drive.google.com/file/d/1mKUpb_vQkv2qqRmLay6ROjIxHISIrrI-/view?usp=sharing
 Eliminación de columnas irrelevantes.
 
 Creación de variables.
