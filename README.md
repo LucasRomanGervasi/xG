@@ -9,7 +9,7 @@ El objetivo de este trabajo es desarrollar un modelo de clasificación para pred
 En esta carpeta normalmente se realiza la descarga de los datos desde la API de StatsBomb.
 
 En este caso, ya contamos con los archivos necesarios descargados. 
-https://drive.google.com/file/d/1tgtuK3QDpUuiiG_eY3UXst-IwX8hE5dj/view?usp=sharing
+https://drive.google.com/file/d/1WI6noUvvGM_VLIvOkOoYZc659MAdjLYC/view?usp=sharing
 
 Por lo tanto, dirigirse directamente a la sección (CAJA nro 6) donde se carga el archivo eventosremates.csv y comenzar con el proceso de limpieza.
 
@@ -18,15 +18,14 @@ En el archivo correspondiente dentro de datastatsbomb/, realizar:
 
 Filtrado de eventos específicos relacionados a remates.
 
-Se unió el dataset de información de jugadores, por lo tanto se necesita este dataset para continuar https://drive.google.com/file/d/19xyElL-rAuReiPIk8idNJsgrVXszB69O/view?usp=sharing
-
+Se unió el dataset de información de jugadores, por lo tanto se necesita este dataset para continuar https://drive.google.com/file/d/1mKUpb_vQkv2qqRmLay6ROjIxHISIrrI-/view?usp=sharing
 Eliminación de columnas irrelevantes.
 
 Creación de variables.
 
 El resultado de esta limpieza será utilizado en el siguiente paso.
 
-Dataset final -> https://drive.google.com/file/d/1q0SlZd1q7K9U67hl8dvAOCUIrtQYr2z7/view?usp=sharing
+Dataset final -> https://drive.google.com/file/d/1KaEDWdK1_jBYKSeGwM0KplWUkpx-jMd8/view?usp=sharing
 
 📂 Ir a dataremates/
 
